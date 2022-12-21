@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  22 DEC 2022 00:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  22 DEC 2022 00:33
 entering extended mode
 **"./Predicting Steam Games review vis-à-vis ChaosNet.tex"
 (Predicting Steam Games review vis-à-vis ChaosNet.tex
@@ -630,14 +630,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--257
 
  []
 
-[13] [14] (Predicting Steam Games review vis-à-vis ChaosNet.aux)
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+[14] (Predicting Steam Games review vis-à-vis ChaosNet.aux)
 Package rerunfilecheck Info: File `"Predicting Steam Games review vis-à-vis Ch
 aosNet".out' has not changed.
 (rerunfilecheck)             Checksum: 5AF209F91F16C93DF2725B5B1FA56D30;301.
  ) 
 Here is how much of TeX's memory you used:
- 10517 strings out of 478927
- 154567 string characters out of 2849181
+ 10518 strings out of 478927
+ 154578 string characters out of 2849181
  481667 words of memory out of 3000000
  28193 multiletter control sequences out of 15000+600000
  411769 words of font info for 59 fonts, out of 8000000 for 9000
@@ -670,9 +675,9 @@ Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/Anurag Dutta
 rs/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1
 000.pfb>
 Output written on "Predicting Steam Games review vis-à-vis ChaosNet.pdf" (14 p
-ages, 334656 bytes).
+ages, 336405 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
+ 199 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  14 words of extra memory for PDF output out of 10000 (max. 10000000)
 
