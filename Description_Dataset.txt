@@ -1,0 +1,31 @@
+#####################################################
+Predicting Steam Games review vis-à-vis ChaosNet 
+
+Author: Anurag Dutta (anuragdutta.research@gmail.com)
+#####################################################
+
+------
+Labels
+------
+
+2: Positive
+1: Mixed
+0: Negative
+
+--------
+Features
+--------
+
+     Titles: Name of the Release
+      Price: Initial Price of the Release
+   DC_Price: Discounted Price of the Release
+Win_Support: Windows Platform Support (0 | 1)
+Mac_Support: Macintosh Platform Support (0 | 1)
+Lnx_Support: Linux Platform Support (0 | 1)
+
+
+
+
+================
+||36869 Titles||
+================
